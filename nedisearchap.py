@@ -9,7 +9,7 @@ print(sys.version)
 
 hostInput = 'AIR-LAP1131AG-E-K9'
 
-nediUrl = 'url'
+nediUrl = 'https://nedi/query.php?'
 nediUser = 'user'
 nediPass = 'pass'
 
